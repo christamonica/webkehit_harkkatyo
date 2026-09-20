@@ -1,2 +1,2 @@
-# webkehit_harkkaty-
+# webkehit_harkkatyo
 Web-kehittämisen perusteiden kurssin harjoitustyö
